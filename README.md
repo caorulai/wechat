@@ -1,14 +1,14 @@
 <h1 align="center">微信小程序开发资源汇总</h1>
 
-本文收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。本文不是一遍关于如何学习微信小程序的入门指南，也非参考手册，只是一些资料的整理。
+本文收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。本文不是一遍关于如何学习微信小程序的入门指南，也非参考手册，只是一些资料的整理。后期会不断更新......
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
-<p align="center"><img src="https://img.wenhairu.com/image/CcPzp" width="320" height="320" alt="" /></p>
-
+[![CcPzp.jpg](https://cdn.img.wenhairu.com/images/2020/10/13/CcPzp.jpg)](https://img.wenhairu.com/image/CcPzp)
 
 如果想更深入的技术探讨了解，可以加入技术交流群：
+微信：buddha2080
 
-<p align="center"><img src="https://img.wenhairu.com/image/Cc0K6" width="320" height="320" alt="" /></p>
+[![Cc0K6.jpg](https://cdn.img.wenhairu.com/images/2020/10/13/Cc0K6.jpg)](https://img.wenhairu.com/image/Cc0K6)
 
 ## 目录
 
@@ -20,7 +20,7 @@
 
 ## 置顶
 
-- [WePY：组件化的小程序开发框架](https://github.com/Tencent/wepy) :100
+- [WePY：组件化的小程序开发框架](https://github.com/Tencent/wepy) :100:
 - [WePY 开发资源汇总](https://github.com/aben1188/awesome-wepy) :100:
 
 ## 官方文档
