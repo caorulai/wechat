@@ -3,11 +3,13 @@
 本文收集了微信小程序开发过程中会使用到的资料、问题以及第三方组件库。本文不是一遍关于如何学习微信小程序的入门指南，也非参考手册，只是一些资料的整理。后期会不断更新......
 
 如果这个仓库对你有帮助，欢迎 star。如果这个仓库帮你提升了技能找到了工作，可以请我喝杯咖啡：
-![](https://github.com/caorulai/wechat/blob/master/zf.jpg)
+
+<p align="center"><img src="https://github.com/caorulai/wechat/blob/master/zf.jpg" width="320" height="320" alt="" /></p>
 
 如果想更深入的技术探讨了解，可以加入技术交流群：
 微信：buddha2080
-![](https://github.com/caorulai/wechat/blob/master/hy.jpg)
+
+<p align="center"><img src="https://github.com/caorulai/wechat/blob/master/hy.jpg" width="320" height="320" alt="" /></p>
 
 ## 目录
 
